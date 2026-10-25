@@ -1,5 +1,6 @@
 # TinyCoreLinux-3ds
-Port of tiny core linux for the 3ds
-Tiny core linux is a good option for the 3ds because tiny core Linux dont need that much ram do it works fine on old and new 3ds
+Port of TinyCoreLinux for the 3ds
+TinyCoreLinux is a good option for the 3ds because TinyCoreLinux dont needs that much ram so it works fine on old and new 3ds
 
+Its using the piCore
 http://www.tinycorelinux.net/17.x/armhf/release/RPi/
