@@ -1,5 +1,5 @@
 # TinyCoreLinux-3ds
-Port of TinyCoreLinux for the 3ds
+Port of TinyCoreLinux for the Nintendo 3ds
 TinyCoreLinux is a good option for the 3ds because TinyCoreLinux dont needs that much ram so it works fine on old and new 3ds
 
 Its using the piCore
