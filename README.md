@@ -4,3 +4,5 @@ TinyCoreLinux is a good option for the 3ds because TinyCoreLinux dont needs that
 
 Its using the piCore
 http://www.tinycorelinux.net/17.x/armhf/release/RPi/
+
+This project is really experimental and still in development by only one person so dont ecpevt something big
